@@ -8,89 +8,24 @@ AI Engineer
 * ✉️ You can contact me at [andrecolaco999@gmail.com](mailto:andrecolaco999@gmail.com)
 
 ## Socials
-[![My Skills](https://skillicons.dev/icons?i=github,linkedin,discord,instagram)](https://skillicons.dev)
-
-<p align="left"> 
-  <a href="https://discord.com/users/acolaco30" target="_blank" rel="noreferrer"> 
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="undefined" /> 
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> 
-    </picture> 
-  </a> 
-  <a href="https://www.github.com/AColaco30" target="_blank" rel="noreferrer"> 
-    <picture> 
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> 
-    </picture> 
-  </a> 
-  <a href="http://www.instagram.com/acolaco30" target="_blank" rel="noreferrer"> 
-    <picture> 
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> 
-    </picture> 
-  </a> 
-  <a href="https://www.linkedin.com/in/andrecolaco" target="_blank" rel="noreferrer"> 
-    <picture> 
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> 
-    </picture> 
-  </a>
-</p>
+[![Github](https://skillicons.dev/icons?i=github)](https://www.github.com/AColaco30)
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/andrecolaco)
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/acolaco30)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](http://www.instagram.com/acolaco30)
 
 ## Skills
 
 ### Programming Languages
-<p align="left">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <picture>
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
-    </picture>
-  </a>
-  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
-    <picture>
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" />
-    </picture>
-  </a>
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
-    <picture>
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" />
-    </picture>
-  </a>
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
-    <picture>
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" />
-    </picture>
-  </a>
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-    <picture>
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" />
-    </picture>
-  </a>
-</p>
+[![Programming Languages](https://skillicons.dev/icons?i=py,java,c,cpp,cs)](https://skillicons.dev)
+
+### Web
+[![Web](https://skillicons.dev/icons?i=django,spring,fastapi,flask)](https://skillicons.dev)
 
 ### AI/ML
-<p align="left"> 
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <picture>
-      <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-    </picture>
-  </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <picture>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-    </picture>
-  </a> 
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <picture>
-      <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
-    </picture>
-  </a> 
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <picture>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
-    </picture>
-  </a> 
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <picture>
-      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-    </picture>
-  </a> 
-</p>
+[![AI/ML](https://skillicons.dev/icons?i=pytorch,tensorflow)](https://skillicons.dev)
+
+### Database
+[![Database](https://skillicons.dev/icons?i=postgres,sqlite)](https://skillicons.dev)
+
+### Other
+[![Other](https://skillicons.dev/icons?i=postman,arduino,latex,linux,matlab,unity)](https://skillicons.dev)
