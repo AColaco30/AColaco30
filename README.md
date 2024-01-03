@@ -8,6 +8,8 @@ AI Engineer
 * ✉️ You can contact me at [andrecolaco999@gmail.com](mailto:andrecolaco999@gmail.com)
 
 ## Socials
+[![My Skills](https://skillicons.dev/icons?i=github,linkedin,discord,instagram)](https://skillicons.dev)
+
 <p align="left"> 
   <a href="https://discord.com/users/acolaco30" target="_blank" rel="noreferrer"> 
     <picture>
